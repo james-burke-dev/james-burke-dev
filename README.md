@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently reworking my portfolio. Please check back at a later date :)
+I'm currently reworking my portfolio and have removed any repos I had pre April 2023. Please check back at a later date :)
