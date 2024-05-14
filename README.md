@@ -10,15 +10,16 @@
   
   - 📝 My Education: 
   
-    - [BSc in Software Development](https://www.mtu.ie/courses/mt700/)
+    - [BSc in Software Development](link to a copy of my degree)
   
-    - [Certificate of Data Engineering](https://www.nait.ca/coned/data-engineer-certificate) 
+    - [Certificate of Data Engineering](link to a copy of my cert) 
     
-    - [Certificate of Data Analytics: Machine Learning](https://www.ucd.ie/professionalacademy/findyourcourse/professional-academy-certificate-in-data-analytics-machine-learning/) 
+    - [Certificate of Data Analytics: Machine Learning](link to a copy of my cert) 
 
   - 📘 Additonal Certifications: 
-    - Azure DP-900, AZ-900, AI-900
-    - Databricks Associate Data Engineer
+    - Azure [DP-900](), [AI-900](), [AZ-900]()
+    - [Databricks Associate Data Engineer]()
+    - [Python Data Strucutres & Alogrithms]() 
   
   - :books: I’m currently learning Airflow and dbt 
 -->
