@@ -15,6 +15,10 @@
     - [Certificate of Data Engineering](https://www.nait.ca/coned/data-engineer-certificate) 
     
     - [Certificate of Data Analytics: Machine Learning](https://www.ucd.ie/professionalacademy/findyourcourse/professional-academy-certificate-in-data-analytics-machine-learning/) 
+
+  - 📘 Additonal Certifications: 
+    - Azure DP-900, AZ-900, AI-900
+    - Databricks Associate Data Engineer
   
   - :books: I’m currently learning Airflow and dbt 
 -->
