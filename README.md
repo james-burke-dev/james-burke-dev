@@ -9,10 +9,12 @@ Welcome to my Github profile, here's a brief introduction about me:
   :bank: I've worked previously for ScalePad, St. Paul's and Bon Secours 
   
   📝 My Education: 
+  
     - BSc in Software Development
+  
     - Certificate of Data Engineering 
+    
     - Certificate of Data Analytics: Machine Learning 
-  :sunglasses: 
   
   :books: I’m currently learning Airflow and dbt 
 
