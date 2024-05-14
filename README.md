@@ -4,7 +4,7 @@ Welcome to my Github profile, here's a brief introduction about me:
   
   :grin: I'm currently on the lookout for opportunities to join an Australian company as a Data Engineer
   
-  📫 Feel to reach out me on LinkedIn or via the contact page on my website 
+  📫 Feel to reach out me on [LinkedIn](https://www.linkedin.com/in/james-burke-dev/) or via the contact page on my website 
   
   :bank: I've worked previously for ScalePad, St. Paul's and Bon Secours 
   
