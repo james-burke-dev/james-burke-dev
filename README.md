@@ -6,7 +6,7 @@ Welcome to my Github profile, here's a brief introduction about me:
   
   📫 Feel to reach out me on [LinkedIn](https://www.linkedin.com/in/james-burke-dev/) or via the contact page on my website 
   
-  :bank: I've worked previously for ScalePad, St. Paul's and Bon Secours 
+  :bank: I've worked for [ScalePad](https://www.scalepad.com/), [St. Paul's](https://stpaulscu.ie/) and [Bon Secours](https://www.bonsecours.ie/) 
   
   📝 My Education: 
   
