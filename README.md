@@ -10,11 +10,11 @@ Welcome to my Github profile, here's a brief introduction about me:
   
   📝 My Education: 
   
-    - [BSc in Software Development](https://www.mtu.ie/courses/mt700/)
+  [BSc in Software Development](https://www.mtu.ie/courses/mt700/)
   
-    - [Certificate of Data Engineering](https://www.nait.ca/coned/data-engineer-certificate) 
+  [Certificate of Data Engineering](https://www.nait.ca/coned/data-engineer-certificate) 
     
-    - [Certificate of Data Analytics: Machine Learning](https://www.ucd.ie/professionalacademy/findyourcourse/professional-academy-certificate-in-data-analytics-machine-learning/) 
+  [Certificate of Data Analytics: Machine Learning](https://www.ucd.ie/professionalacademy/findyourcourse/professional-academy-certificate-in-data-analytics-machine-learning/) 
   
   :books: I’m currently learning Airflow and dbt 
 
