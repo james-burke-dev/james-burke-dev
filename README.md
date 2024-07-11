@@ -16,4 +16,4 @@ Welcome to my Github profile, here's a brief introduction about me:
     
     - Certificate of Data Analytics: Machine Learning
 
-I'm currently reworking my portfolio and have removed any repos I had pre June 2024.
+I'm currently reworking my portfolio and have removed any repos I had pre May 2024.
