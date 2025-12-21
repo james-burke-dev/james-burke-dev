@@ -20,12 +20,10 @@ Welcome to my Github profile, here's a brief introduction about me:
 
 ### Project Highlights 
   
-  - :video_game: [CS2 Data Pipeline]()
-  
-  - :email: [Topic Modelling Enron Emails]() 
-  
-  - :oncoming_automobile: [Vehicle Identification]()
-
-  - :no_entry_sign: [Malicious URL Detection]()
-
-  - :bird: [Tweet Data Pipeline]()
+|       | Title     | Description     | Tech Used     |
+| ------------- | ------------- | ------------- | ------------- |
+| :video_game:  | [CS2 Data Pipeline]() | Containerized data pipeline, visualising aggregations from the Steam API. | Python, Docker |
+| :email:  | [Topic Modelling Enron Emails]() | Transforms .eml files to a corpus and performs LDA Topic Modelling. | Python, other |
+| :oncoming_automobile:  | [Vehicle Identification]()  | Streams camera feed and uses computer vision to identify vehicles. | TBD |
+| :no_entry_sign: | [Malicious URL Detection]() | Cleans over 8 million URL records and predicts if they are malicious or benign. | TBD |
+| :bird: | [Twitter Data Pipeline]() | Gets tweets from the twitter API and Topic Models the tweets using BERTopic. | TBD |
