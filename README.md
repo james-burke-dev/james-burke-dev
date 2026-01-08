@@ -13,10 +13,6 @@ Welcome to my Github profile, here's a brief introduction about me:
     - MSc. in Data Engineering
     
     - BSc. in Software Development
-  
-    - Certificate of Data Engineering
-    
-    - Certificate of Data Analytics: Machine Learning
 
 ### Project Highlights 
   
